@@ -7,4 +7,11 @@ export default defineNuxtConfig({
 	ui: {
 		colorMode: false,
 	},
+
+	content: {
+		preview: {
+			api: 'https://api.nuxt.studio',
+			dev: true,
+		},
+	},
 });

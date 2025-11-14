@@ -1,26 +1,25 @@
 <script lang="ts" setup>
 	const props = defineProps<{
 		categoryLabel: string;
-		categoryValue: string;
 		selected?: string;
 	}>();
 
 	const emits = defineEmits(['categorySelected', 'categoryUnselected']);
 
 	const isCategorySelected = computed(() =>
-		toRef(props.selected).value === props.categoryValue ? true : false,
+		toRef(props.selected).value === props.categoryLabel ? true : false,
 	);
 
 	const handleClick = () => {
 		isCategorySelected.value
 			? emits('categoryUnselected')
-			: emits('categorySelected', props.categoryValue);
+			: emits('categorySelected', props.categoryLabel);
 	};
 </script>
 
 <template>
 	<div
-		class="flex cursor-pointer items-center justify-center border px-2.5 py-1.5 transition-colors select-none"
+		class="flex cursor-pointer items-center justify-center border p-2.5 font-mono text-xs transition-colors select-none"
 		:class="
 			isCategorySelected
 				? 'bg-accented border-accented'
