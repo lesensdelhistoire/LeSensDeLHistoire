@@ -1,6 +1,5 @@
 ---
 title: 'Tourisme en Corée du Nord : un paradoxe épistémologique ?'
-slug: tourisme
 description: Si le tourisme est défini comme « un système d’acteurs, de lieux et de pratiques permettant aux individus la recréation par le déplacement et l’habiter temporaire hors des lieux du quotidien », peut-on vraiment parler de tourisme en Corée du Nord ?
 category: Tourisme
 tags:
@@ -8,6 +7,7 @@ tags:
     - collaboration
     - numérique
 illustration: /articles/tourisme.jpg
+illustrationDetails: Photo de statues
 date: 2025-05-01T00:00:00.000Z
 archived: false
 ---

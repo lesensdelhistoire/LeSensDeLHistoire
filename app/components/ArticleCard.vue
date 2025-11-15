@@ -1,18 +1,18 @@
 <script lang="ts" setup>
 	export type ArticleCardItem = {
 		title: string;
-		slug: string;
 		description: string;
 		category: string;
 		tags: string[];
 		illustration: string;
+		illustrationDetails: string;
 		date: string;
 		archived: boolean;
+		path: string;
 	};
 
 	const props = defineProps<{
 		horizontal?: boolean;
-
 		article: ArticleCardItem;
 	}>();
 </script>
@@ -26,7 +26,7 @@
 					? 'gridgrid-cols-1 sm:grid-cols-2 md:grid-cols-3'
 					: 'flex flex-col sm:h-153'
 			"
-			:to="article.slug"
+			:to="article.path"
 		>
 			<header
 				class="flex h-fit w-full flex-col gap-2.5"
@@ -38,6 +38,7 @@
 					<img
 						:src="article.illustration"
 						class="h-full scale-110 object-cover object-center transition-transform group-hover:scale-100"
+						:alt="article.illustrationDetails"
 					/>
 				</div>
 
@@ -74,7 +75,7 @@
 					:class="
 						horizontal
 							? 'line-clamp-7'
-							: 'line-clamp-10 sm:line-clamp-9 md:line-clamp-6'
+							: 'line-clamp-10 sm:line-clamp-6'
 					"
 				>
 					{{ article.description }}

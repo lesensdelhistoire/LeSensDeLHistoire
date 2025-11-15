@@ -1,6 +1,5 @@
 ---
 title: Pourquoi les femmes ont une meilleure vie sexuelle sous le socialisme ?
-slug: foot
 description: Dans cet essai paru en 2018, l’anthropologue Kristen Ghodsee part d’un constat simple, « Le capitalisme est mauvais pour les femmes » (p. 29). Que faire, donc, après ce constat ? Trouver des voies alternatives et l’histoire du socialisme et du postsocialisme – dont est spécialiste Ghodsee – apporte un certain nombre de réponses.
 category: Féminisme
 tags:
@@ -8,6 +7,7 @@ tags:
     - collaboration
     - numérique
 illustration: /articles/femme.webp
+illustrationDetails: Illustration de l'ouvrage "Pourquoi les femmes ont une meilleure vie sexuelle sous le socialisme ?" - Kristen Ghodsee
 date: 2024-07-17T00:00:00.000Z
 archived: false
 ---

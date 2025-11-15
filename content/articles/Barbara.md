@@ -1,6 +1,5 @@
 ---
 title: '« Ne plus se cacher derrière son petit doigt » : Barbara et le SIDA, une représentation médiatique singulière.'
-slug: barbara
 description: 'Barbara et le sida : une représentation médiatique singulière (1987). Il apparait assez inhabituel d’associer Barbara et militantisme, pourtant c’est à cette facette de la dame en noir que nous allons nous intéresser, celle qui s’engagea sans faille dans la lutte contre le SIDA.'
 category: Barbara
 tags:
@@ -8,6 +7,7 @@ tags:
     - collaboration
     - numérique
 illustration: /articles/barbara.jpg
+illustrationDetails: Photo de Barbara
 date: 2024-07-15T00:00:00.000Z
 archived: false
 ---

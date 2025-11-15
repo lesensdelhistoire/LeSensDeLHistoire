@@ -1,10 +1,12 @@
 ---
 title: 'L’écologie sera socialiste ou ne sera pas'
-slug: ecologie-socialisme
 description: 'Loin du récit lisse d’une « fin de l’histoire » proclamée dans l’euphorie des années 1990, la guerre n’a jamais disparu. Aujourd’hui, de l’Ukraine à Gaza, des confins sahéliens aux rivages de la mer de Chine, les foyers de conflit se multiplient, révélant moins des accidents périphériques que l’aggravation d’une dynamique structurelle : celle des rivalités inter-impérialistes, jamais abolies, toujours rejouées, et qui rendent illusoire toute stabilisation durable de l’ordre mondial. À mesure que l’économie de guerre s’impose comme horizon, une interrogation s’impose à nouveau comme elle s’imposait déjà à nos camarades en 19121 : ne sommes-nous pas, déjà, aux avant-postes d’une Troisième Guerre mondiale ?'
 category: Écologie
-tags: Ecologie, socialisme
+tags:
+    - Écologie
+    - Socialisme
 illustration: /articles/ecologie.webp
+illustrationDetails: Tableau pour illustrer l'écologie
 date: 2025-10-20T00:00:00.000Z
 archived: false
 ---

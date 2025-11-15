@@ -8,11 +8,11 @@ export default defineContentConfig({
 			source: 'articles/*.md',
 			schema: z.object({
 				title: z.string(),
-				slug: z.string(),
 				description: z.string(),
 				category: z.string(),
 				tags: z.array(z.string()),
 				illustration: z.string(),
+				illustrationDetails: z.string(),
 				date: z.date(),
 				archived: z.boolean(),
 			}),

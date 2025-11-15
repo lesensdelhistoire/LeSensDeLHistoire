@@ -1,6 +1,5 @@
 ---
 title: Mais qui est l’équipe du Régime ? Ou les fractures ouvertes de l’Etat espagnol.
-slug: foot
 description: Sur fond de scandale arbitral, le passé franquiste resurgit encore en Espagne. Le Président du FC Barcelone, Joan Laporta, accuse le Real Madrid d’avoir été « l’équipe du Régime ». Mais le club madrilène a répondu sur Twitter via une vidéo accusant à son tour le FC Barcelone d’avoir été l’équipe du Régime. Derrière ce conflit, ce sont les fractures de l’Etat espagnol qui se manifestent de nouveau.
 category: Foot
 tags:
@@ -8,6 +7,7 @@ tags:
     - collaboration
     - numérique
 illustration: /articles/foot.jpg
+illustrationDetails: Photo d'un mec dans le foot
 date: 2024-07-16T00:00:00.000Z
 archived: false
 ---

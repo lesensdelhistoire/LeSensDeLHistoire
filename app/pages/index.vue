@@ -83,14 +83,6 @@
 			</UPageHeader>
 
 			<UPageBody>
-				<!-- <section class="flex flex-col gap-2.5">
-					<h2 class="text-3xl">La sélection</h2>
-
-					<ul>
-						<ArticleCard horizontal v-for="article in artil" />
-					</ul>
-				</section> -->
-
 				<section class="flex flex-col gap-2.5">
 					<h2 class="text-3xl">Derniers articles</h2>
 					<ul
@@ -98,7 +90,7 @@
 					>
 						<ArticleCard
 							v-for="article in filteredArticles"
-							:key="article.slug"
+							:key="article.path"
 							:article="article"
 						/>
 					</ul>
