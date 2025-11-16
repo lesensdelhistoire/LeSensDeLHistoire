@@ -21,6 +21,24 @@
 			fatal: true,
 		});
 	}
+
+	const readingTime = computed(() => {
+		const averageWPM = 200;
+
+		const wordsInArticle = ref(0);
+
+		const bodyValue = article.value?.body.value;
+		if (bodyValue !== undefined) {
+			for (const paragraph of bodyValue) {
+				const text = paragraph[2];
+				if (typeof text === 'string') {
+					wordsInArticle.value += text.split(' ').length;
+				}
+			}
+		}
+
+		return Math.ceil(wordsInArticle.value / averageWPM);
+	});
 </script>
 
 <template>
@@ -116,13 +134,7 @@
 						/>
 					</li>
 
-					<!-- <li>
-						Temps de lecture :
-						<span>
-							{{ readingTime }}
-							minute{{ readingTime > 1   's' : '' }}
-						</span>
-					</li> -->
+					<li>Temps de lecture : {{ readingTime }} minutes</li>
 				</ul>
 
 				<div
