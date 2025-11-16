@@ -54,7 +54,11 @@
 						</UModal>
 
 						<NuxtLink
-							:to="`/${article.category}`"
+							:to="`/?category=${article.category
+								.toLowerCase()
+								.normalize('NFD')
+								.replace(/[\u0300-\u036f]/g, '')
+								.trim()}`"
 							class="bg-muted hover:bg-elevated flex w-full items-center justify-center px-2.5 py-1 text-xs transition-colors"
 						>
 							{{ article.category }}

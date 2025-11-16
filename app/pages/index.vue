@@ -1,6 +1,4 @@
 <script lang="ts" setup>
-	import ArticleCard from '~/components/ArticleCard.vue';
-
 	const { data: navigation } = await useAsyncData('navigation', () =>
 		queryCollectionNavigation('articles'),
 	);
@@ -14,15 +12,16 @@
 
 	const searchTerm = ref('');
 
+	const router = useRouter();
+
 	const { data: categories } = await useAsyncData('categories', () =>
 		queryCollection('categories').all(),
 	);
 
-	const categorySelected = ref('');
-
-	const selectCategory = (categoryEmited: string) => {
-		categorySelected.value = categoryEmited;
-	};
+	const selectedCategory = computed(() => {
+		const category = router.currentRoute.value.query.category;
+		return Array.isArray(category) ? category[0] || '' : category || '';
+	});
 
 	const { data: articles } = await useAsyncData('articles', () =>
 		queryCollection('articles')
@@ -34,23 +33,16 @@
 	const filteredArticles = computed(() => {
 		const allArticles = articles.value;
 
-		if (!categorySelected.value) {
-			return allArticles;
-		}
-
-		return allArticles?.filter(
-			(article) =>
-				article.category
-					.toLowerCase()
-					.normalize('NFD')
-					.replace(/[\u0300-\u036f]/g, '')
-					.trim() ===
-				categorySelected.value
-					.toLowerCase()
-					.normalize('NFD')
-					.replace(/[\u0300-\u036f]/g, '')
-					.trim(),
-		);
+		return selectedCategory.value
+			? allArticles?.filter(
+					(article) =>
+						article.category
+							.toLowerCase()
+							.normalize('NFD')
+							.replace(/[\u0300-\u036f]/g, '')
+							.trim() === selectedCategory.value,
+				)
+			: allArticles;
 	});
 </script>
 
@@ -74,9 +66,7 @@
 					<li v-for="category in categories" :key="category.label">
 						<CategorySelector
 							:categoryLabel="category.label"
-							:selected="categorySelected"
-							@category-selected="selectCategory"
-							@category-unselected="() => (categorySelected = '')"
+							:selected="selectedCategory"
 						/>
 					</li>
 				</ul>

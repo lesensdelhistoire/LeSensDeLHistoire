@@ -4,16 +4,28 @@
 		selected?: string;
 	}>();
 
-	const emits = defineEmits(['categorySelected', 'categoryUnselected']);
+	const router = useRouter();
 
-	const isCategorySelected = computed(() =>
-		toRef(props.selected).value === props.categoryLabel ? true : false,
+	const isCategorySelected = computed(
+		() =>
+			toRef(props.selected).value ===
+			props.categoryLabel
+				.toLowerCase()
+				.normalize('NFD')
+				.replace(/[\u0300-\u036f]/g, '')
+				.trim(),
 	);
 
 	const handleClick = () => {
 		isCategorySelected.value
-			? emits('categoryUnselected')
-			: emits('categorySelected', props.categoryLabel);
+			? router.push('')
+			: router.push(
+					`?category=${props.categoryLabel
+						.toLowerCase()
+						.normalize('NFD')
+						.replace(/[\u0300-\u036f]/g, '')
+						.trim()}`,
+				);
 	};
 </script>
 

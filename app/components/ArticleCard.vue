@@ -3,7 +3,7 @@
 		title: string;
 		description: string;
 		category: string;
-		tags: string[];
+		tags?: string[];
 		illustration: string;
 		illustrationDetails: string;
 		date: string;
