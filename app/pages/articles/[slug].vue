@@ -1,9 +1,9 @@
 <script setup lang="ts">
-	const route = useRoute();
-
 	definePageMeta({
 		layout: 'article',
 	});
+
+	const route = useRoute();
 
 	const { data: article } = await useAsyncData(
 		`article-${route.params.slug}`,
@@ -13,11 +13,35 @@
 				.where('archived', '=', false)
 				.first(),
 	);
+
+	if (!article.value) {
+		throw createError({
+			statusCode: 404,
+			statusMessage: 'Page not found',
+			fatal: true,
+		});
+	}
 </script>
 
 <template>
 	<UPage v-if="article">
-		<UContainer class="w-fit max-w-200">
+		<template #left>
+			<UPageAside></UPageAside>
+		</template>
+
+		<template #right>
+			<UPageAside>
+				<UContentToc
+					:title="article.title"
+					v-if="article?.body?.toc?.links?.length"
+					:links="article.body.toc.links"
+					color="neutral"
+					highlight-color="neutral"
+				/>
+			</UPageAside>
+		</template>
+
+		<UContainer class="w-full max-w-200">
 			<UPageHeader class="border-b-0">
 				<div class="flex flex-col gap-10">
 					<div class="flex flex-col items-start gap-2.5">
@@ -70,7 +94,9 @@
 						</ul>
 					</div>
 
-					<h1 class="text-highlighted font-sans text-5xl font-medium">
+					<h1
+						class="text-highlighted font-sans text-4xl font-medium sm:text-5xl"
+					>
 						{{ article.title }}
 					</h1>
 				</div>
@@ -99,7 +125,9 @@
 					</li> -->
 				</ul>
 
-				<div class="bg-muted border-muted border px-15 py-10">
+				<div
+					class="sm:bg-muted sm:border-muted p-0 sm:border sm:px-15 sm:py-10"
+				>
 					<ContentRenderer :value="article.body" />
 				</div>
 			</UPageBody>

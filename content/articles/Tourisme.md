@@ -20,7 +20,7 @@ Ce texte s’appuie sur la lecture de L’Envers du Monde. Retour de Corée du N
 
 Dès lors, plusieurs questions s’imposent : peut-on parler de tourisme en Corée du Nord ? Et si le tourisme nord-coréen n’était pas un écart, mais une autre manifestation, spécifique, du tourisme comme instrument du pouvoir ?
 
-# 1. Le déplacement comme illusion : une mobilité sans autonomie
+## 1. Le déplacement comme illusion : une mobilité sans autonomie
 
 La première pierre angulaire de la définition classique du tourisme est le déplacement. Or, en Corée du Nord, bien que les touristes étrangers se déplacent réellement, ils ne se déplacent jamais librement. Leurs trajets sont décidés par les autorités, accompagnés de guides officiels, sans possibilité d’explorer, de dévier, ou d’entrer en contact spontané avec les habitants. Ce n’est pas une mobilité choisie, mais une mobilité surveillée.
 
@@ -28,7 +28,7 @@ Ce constat rejoint les analyses de Tim Cresswell (2006), pour qui toute mobilit�
 
 Dans ce contexte, le déplacement ne peut plus être réduit à un simple changement de lieu. Il faut l’interroger dans ses conditions de possibilité : qui le rend possible, qui le régule, dans quel but ? La géographie du tourisme ne peut faire l’économie d’une pensée critique de la mobilité, surtout quand celle-ci devient un outil de propagande.
 
-# 2. Le système d’acteurs en régime autoritaire : une configuration asymétrique et fermée
+## 2. Le système d’acteurs en régime autoritaire : une configuration asymétrique et fermée
 
 L’un des postulats majeurs de la définition du tourisme proposée par les équipes du MIT est qu’il s’organise en système — c’est-à-dire en réseau structuré d’acteurs interdépendants : institutions publiques, entreprises touristiques, habitants, touristes, guides, infrastructures… Ce système permet la co-production d’une expérience touristique, reposant sur des interactions, des ajustements, des négociations.
 
@@ -40,7 +40,7 @@ Pour la géographie du tourisme, cette situation pose une question épistémolog
 
 Ce cas oblige à interroger une tendance parfois implicite dans les théories françaises du tourisme : leur ancrage dans des modèles démocratiques, marchands, occidentaux. En Corée du Nord, le tourisme fonctionne selon une logique verticale, planifiée, à rebours de l’interdépendance horizontale entre acteurs que suppose le modèle classique. Cette dissymétrie ne doit pas être vue comme une anomalie, mais comme un autre type de régime touristique — planifié, stratégique, performatif — qu’il faut intégrer dans nos grilles d’analyse.
 
-# 3. Des lieux impossibles à habiter : quand l’espace devient un décor
+## 3. Des lieux impossibles à habiter : quand l’espace devient un décor
 
 En théorie, le tourisme repose aussi sur l’habiter temporaire de lieux nouveaux — ce qui suppose une certaine appropriation, une ouverture à l’expérience. Mais en Corée du Nord, les lieux touristiques sont avant tout des vitrines. Ils ne sont pas donnés à voir tels qu’ils sont, mais tels qu’ils doivent être vus. L’espace devient un décor politique, un support narratif au service du régime.
 
@@ -48,7 +48,7 @@ Yi-Fu Tuan (1977) a distingué l’espace (potentiel, ouvert, fluide) du lieu (p
 
 On pourrait même parler, avec Marc Augé (1992), de non-lieux paradoxaux : non pas par excès de mondialisation (comme dans les aéroports), mais par excès d’idéologisation. Le lieu n’est plus un point de rencontre entre un espace et un sujet, mais un point de fixation d’un récit figé. Les lieux touristiques nord-coréens sont des non-lieux habités scéniquement : musées du juche, monuments gigantesques, hôtels isolés et parcours sans hasard. Le lieu ne devient pas espace de rencontre, mais théâtre de la démonstration politique. Il en résulte une spatialité inversée, où l’habituel « hors quotidien » du tourisme n’est pas l’ailleurs libre mais l’ailleurs normé, ritualisé, imposé.
 
-# 4. Le tourisme sans recréation ? Une expérience neutralisée
+## 4. Le tourisme sans recréation ? Une expérience neutralisée
 
 L’une des dimensions centrales du tourisme est la « recréation », au sens large : se ressourcer, se divertir, apprendre, s’étonner. Mais en Corée du Nord, la recréation laisse place à une forme de participation à une fiction politique. Le touriste n’est pas tant invité à découvrir qu’à regarder — et à croire, ou faire semblant de croire.
 
@@ -56,7 +56,7 @@ John Urry, avec le concept de tourist gaze (1990), a montré que le regard touri
 
 Cette expérience, est une plongée dans une narration maîtrisée de bout en bout. Elle ne permet ni l’altérité (ou si peu), ni la surprise, ni l’imprévu — autant de dimensions pourtant essentielles dans la littérature géographique contemporaine sur le tourisme.
 
-# 5. Penser le tourisme comme dispositif de pouvoir
+## 5. Penser le tourisme comme dispositif de pouvoir
 
 Face à ce constat, il devient difficile de maintenir la définition traditionnelle du tourisme sans la nuancer. Le cas nord-coréen nous montre qu’il ne suffit pas de réunir les trois conditions formelles (des lieux, des acteurs, des pratiques) pour qu’il y ait véritablement tourisme. Il faut aussi interroger les rapports de pouvoir qui traversent ces éléments.
 

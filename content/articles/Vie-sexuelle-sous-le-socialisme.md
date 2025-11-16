@@ -16,7 +16,7 @@ Retour sur le livre de Kristen Ghodsee Pourquoi les femmes ont une meilleure vie
 
 Dans cet essai paru en 2018 et traduit en français en 2020 par Charlotte Nordmann et Laura Raim, l’anthropologue Kristen Ghodsee part d’un constat simple : « Le capitalisme est mauvais pour les femmes » (p. 29). Que faire, donc, après ce constat ? Trouver des voies alternatives et l’histoire du socialisme et du postsocialisme – dont est spécialiste Ghodsee – apporte un certain nombre de réponses.
 
-# L’échec de la transition postsocialiste : un « laboratoire idéal ».
+## L’échec de la transition postsocialiste : un « laboratoire idéal ».
 
 Dès l’introduction Ghodsee nous livre un premier constat : l’échec de la transition du socialisme vers un nouveau modèle économique : le capitalisme néolibéral, amorçant privatisations massives des entreprises, et dérégulation totale des marchés. Durant la Guerre Froide, la menace communiste tendait à réguler le capitalisme. Mais « l’effondrement du socialisme d’Etat a inauguré une ère de triomphalisme pour le capitalisme occidental » (p. 46). L’éclosion brutale de ce capitalisme dans les ex-Etats socialistes est un « laboratoire idéal » permettant de saisir au maximum « les effets du capitalisme sur la vie des femmes » (p. 42).
 
