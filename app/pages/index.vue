@@ -44,6 +44,25 @@
 				)
 			: allArticles;
 	});
+
+	const { data: page } = await useAsyncData('page', () =>
+		queryCollection('pages').first(),
+	);
+
+	useSeoMeta({
+		title: page.value?.title,
+		ogTitle: page.value?.title,
+		twitterTitle: page.value?.title,
+
+		description: page.value?.description,
+		ogDescription: page.value?.description,
+		twitterDescription: page.value?.description,
+
+		ogImage: page.value?.seoImage,
+		ogUrl: page.value?.seoImage,
+		twitterImage: page.value?.seoImage,
+		twitterCard: 'summary_large_image',
+	});
 </script>
 
 <template>

@@ -2,7 +2,7 @@
 
 <template>
 	<header
-		class="flex h-fit items-end justify-start bg-[url(/img/header.png)] bg-cover bg-center bg-no-repeat p-4"
+		class="flex h-fit items-end justify-start bg-[url(/pages/header.png)] bg-cover bg-center bg-no-repeat p-4"
 	>
 		<NuxtLink to="/">
 			<h1
