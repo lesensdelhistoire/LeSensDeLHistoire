@@ -2,7 +2,17 @@
 export default defineNuxtConfig({
 	compatibilityDate: '2025-07-15',
 	devtools: { enabled: true },
-	modules: ['@nuxt/ui', '@nuxt/content', '@compodium/nuxt'],
+
+	nitro: {
+		prerender: {
+			// Pre-render the homepage
+			routes: ['/', '/articles', '/articles/[slug]'],
+			// Then crawl all the links on the page
+			crawlLinks: true,
+		},
+	},
+
+	modules: ['@nuxt/ui', '@nuxt/content', 'nuxt-studio', '@compodium/nuxt'],
 	css: ['~/assets/css/main.css'],
 	ui: {
 		colorMode: false,
@@ -32,6 +42,16 @@ export default defineNuxtConfig({
 		preview: {
 			api: 'https://api.nuxt.studio',
 			dev: true,
+		},
+	},
+
+	studio: {
+		route: '/_studio',
+
+		repository: {
+			provider: 'github',
+			owner: 'banedPowell',
+			repo: 'LeSensDeLHistoire',
 		},
 	},
 });
