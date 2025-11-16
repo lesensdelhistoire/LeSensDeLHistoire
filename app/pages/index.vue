@@ -84,7 +84,10 @@
 				<ul class="mt-2.5 flex w-full gap-2.5 overflow-scroll">
 					<li v-for="category in categories" :key="category.label">
 						<CategorySelector
-							:categoryLabel="category.label"
+							:categoryLabel="
+								category.label ||
+								(category.meta.title as string)
+							"
 							:selected="selectedCategory"
 						/>
 					</li>

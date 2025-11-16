@@ -32,7 +32,7 @@ export default defineContentConfig({
 			type: 'data',
 			source: 'categories/*.yml',
 			schema: z.object({
-				label: z.string(),
+				label: z.string().optional(),
 			}),
 		}),
 	},
