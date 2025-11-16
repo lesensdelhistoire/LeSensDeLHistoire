@@ -1,4 +1,4 @@
-<script lang="ts" setup>
+<script setup lang="ts">
 	const route = useRoute();
 
 	definePageMeta({
@@ -21,13 +21,10 @@
 			<UPageHeader class="border-b-0">
 				<div class="flex flex-col gap-10">
 					<div class="flex flex-col items-start gap-2.5">
-						<UButton
-							variant="subtle"
-							color="neutral"
-							class="rounded-none py-1"
-							icon="lucide:chevron-left"
-							label="Retour"
+						<HButton
 							to="/"
+							label="Retour"
+							icon="lucide:chevron-left"
 						/>
 
 						<UModal
