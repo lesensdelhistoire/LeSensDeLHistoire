@@ -1,4 +1,4 @@
-<script lang="ts" setup>
+<script setup lang="ts">
 	export type ArticleCardItem = {
 		title: string;
 		description: string;
