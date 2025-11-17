@@ -1,13 +1,17 @@
 ---
-title: 'Tourisme en Corée du Nord : un paradoxe épistémologique ?'
-description: Si le tourisme est défini comme « un système d’acteurs, de lieux et de pratiques permettant aux individus la recréation par le déplacement et l’habiter temporaire hors des lieux du quotidien », peut-on vraiment parler de tourisme en Corée du Nord ?
+title: "Tourisme en Corée du Nord : un paradoxe épistémologique ?"
+description: Si le tourisme est défini comme « un système d’acteurs, de lieux et
+  de pratiques permettant aux individus la recréation par le déplacement et
+  l’habiter temporaire hors des lieux du quotidien », peut-on vraiment parler de
+  tourisme en Corée du Nord ?
 category: Tourisme
 tags:
-    - archives
-    - collaboration
-    - numérique
-illustration: /articles/tourisme.jpg
-illustrationDetails: Photo de statues
+  - Tourisme
+  - Politique
+  - Corée du Nord
+  - Épistémologie
+illustration: /articles/tourisme-coree-du-nord/tourisme.jpg
+illustrationDetails: Photo du "Grand monument Mansudae" à Pyongyang en Corée du Nord
 date: 2025-05-01T00:00:00.000Z
 archived: false
 ---
@@ -16,11 +20,15 @@ Dans les sociétés libérales, le tourisme est souvent présenté comme un lois
 
 Or, lorsqu’on applique cette définition au tourisme en Corée du Nord, un cas limite s’impose, non pas comme une exception mais comme une forme particulière de mise en tourisme d’un territoire sous domination étatique totale. Le voyage devient ici une expérience hautement contrôlée, où les trajectoires sont dictées, les récits imposés, les subjectivités encadrées. Ce tourisme ne vise ni le loisir, ni la rencontre, ni même la consommation, mais la reproduction idéologique d’un pouvoir centralisé, dans un système d’économie planifiée et de monopole du capital touristique par l’État.
 
+![Couverture du livre de Martin Le Roux "L'envers du monde, retour de Corée du Nord"](/articles/tourisme-coree-du-nord/cover-l-envers-du-monde.jpg)
+
 Ce texte s’appuie sur la lecture de L’Envers du Monde. Retour de Corée du Nord de Martin Le Roux (2025), qui relate avec précision son expérience encadrée de touriste en Corée du Nord. Derrière la narration d’un « séjour », l’auteur décrit un dispositif total : chaque parole, chaque image, chaque silence semble programmé pour servir une vision du monde. Ce témoignage invite à déplacer notre regard : le tourisme n’y est pas absent, mais transformé en outil de valorisation politique et de légitimation symbolique d’un système autoritaire.
 
 Dès lors, plusieurs questions s’imposent : peut-on parler de tourisme en Corée du Nord ? Et si le tourisme nord-coréen n’était pas un écart, mais une autre manifestation, spécifique, du tourisme comme instrument du pouvoir ?
 
 ## 1. Le déplacement comme illusion : une mobilité sans autonomie
+
+![Photo d'un van de tourisme nord coréen](/articles/tourisme-coree-du-nord/xdprk-van.jpg.pagespeed.ic.y-rj6-ytm6-dx.jpg)
 
 La première pierre angulaire de la définition classique du tourisme est le déplacement. Or, en Corée du Nord, bien que les touristes étrangers se déplacent réellement, ils ne se déplacent jamais librement. Leurs trajets sont décidés par les autorités, accompagnés de guides officiels, sans possibilité d’explorer, de dévier, ou d’entrer en contact spontané avec les habitants. Ce n’est pas une mobilité choisie, mais une mobilité surveillée.
 
@@ -30,9 +38,7 @@ Dans ce contexte, le déplacement ne peut plus être réduit à un simple change
 
 ## 2. Le système d’acteurs en régime autoritaire : une configuration asymétrique et fermée
 
-L’un des postulats majeurs de la définition du tourisme proposée par les équipes du MIT est qu’il s’organise en système — c’est-à-dire en réseau structuré d’acteurs interdépendants : institutions publiques, entreprises touristiques, habitants, touristes, guides, infrastructures… Ce système permet la co-production d’une expérience touristique, reposant sur des interactions, des ajustements, des négociations.
-
-Or, la Corée du Nord présente une configuration totalement déséquilibrée de ce système. L’un des acteurs — l’État-parti — écrase tous les autres. Il centralise la conception, l’encadrement et le récit du tourisme, via des organismes comme le Korea International Travel Company, seul opérateur habilité à organiser les séjours. Il définit les parcours, les hébergements, les interactions autorisées. Les guides ne sont pas des médiateurs culturels au sens classique, mais des fonctionnaires du régime, chargés à la fois de surveiller et d’orienter les perceptions.
+L’un des postulats majeurs de la définition du tourisme proposée par les équipes du MIT est qu’il s’organise en système — c’est-à-dire en réseau structuré d’acteurs interdépendants : institutions publiques, entreprises touristiques, habitants, touristes, guides, infrastructures… Ce système permet la co-production d’une expérience touristique, reposant sur des interactions, des ajustements, des négociations.Or, la Corée du Nord présente une configuration totalement déséquilibrée de ce système. L’un des acteurs — l’État-parti — écrase tous les autres. Il centralise la conception, l’encadrement et le récit du tourisme, via des organismes comme le Korea International Travel Company, seul opérateur habilité à organiser les séjours. Il définit les parcours, les hébergements, les interactions autorisées. Les guides ne sont pas des médiateurs culturels au sens classique, mais des fonctionnaires du régime, chargés à la fois de surveiller et d’orienter les perceptions.
 
 Dans un tel contexte, la pluralité des acteurs est réduite à une façade. Le touriste est passif, parfois instrumentalisé comme témoin d’un système de pensée. Les habitants sont absents de l’échange touristique ou bien intégrés de manière stratégique dans des scènes soigneusement orchestrées (visites d’écoles, de fermes modèles, etc.). Le marché, la société civile, l’initiative privée — éléments clés du système touristique dans les sociétés libérales — sont ici inexistants ou neutralisés.
 
@@ -41,6 +47,8 @@ Pour la géographie du tourisme, cette situation pose une question épistémolog
 Ce cas oblige à interroger une tendance parfois implicite dans les théories françaises du tourisme : leur ancrage dans des modèles démocratiques, marchands, occidentaux. En Corée du Nord, le tourisme fonctionne selon une logique verticale, planifiée, à rebours de l’interdépendance horizontale entre acteurs que suppose le modèle classique. Cette dissymétrie ne doit pas être vue comme une anomalie, mais comme un autre type de régime touristique — planifié, stratégique, performatif — qu’il faut intégrer dans nos grilles d’analyse.
 
 ## 3. Des lieux impossibles à habiter : quand l’espace devient un décor
+
+![Photo du "Monument à la fondation du Parti"](/articles/tourisme-coree-du-nord/coree-du-nord-pyongyang-scaled.jpg)
 
 En théorie, le tourisme repose aussi sur l’habiter temporaire de lieux nouveaux — ce qui suppose une certaine appropriation, une ouverture à l’expérience. Mais en Corée du Nord, les lieux touristiques sont avant tout des vitrines. Ils ne sont pas donnés à voir tels qu’ils sont, mais tels qu’ils doivent être vus. L’espace devient un décor politique, un support narratif au service du régime.
 
@@ -74,5 +82,5 @@ Ainsi, ce tourisme ne fonctionne pas malgré la contrainte, mais par elle. Il in
 Penser le tourisme nord-coréen à partir de ces grilles critiques, ce n’est donc pas simplement élargir la définition classique : c’est en déplacer le centre de gravité. Il ne s’agit plus de décrire ce que fait le tourisme, mais de comprendre ce qu’il produit : de la légitimité, de la croyance, de l’ordre — bref, du pouvoir.
 
 > Je suis venu ici en citoyen de l’Occident, avec une éducation fondée sur des principes très éloignés de ceux face auxquels je me trouve – ni bon, ni mauvais, mais une différence telle que je m’étais toujours figuré ces principes là comme n’étant pas les bons. En ces terres, l’individus a une place moindre. Son bonheur ne peut reposer sur les mêmes bases que le nôtre, car il ne dispose pas des mêmes fondements. Là où notre bonheur est individuel, le leur est collectif, se nourrissant de la santé et de la puissance de leur Etat. Nous sommes de l’autre côté du miroir, dans ce parfait contraire d’où nous vivons, d’où nous avons grandi et appris à penser.
-
-_Martin Le Roux, L’Envers du Monde. Retour de Corée du Nord, Marseille, Le mot et le reste, 2025, p. 31-32._
+>
+> *Martin Le Roux, L’Envers du Monde. Retour de Corée du Nord, Marseille, Le mot et le reste, 2025, p. 31-32.*

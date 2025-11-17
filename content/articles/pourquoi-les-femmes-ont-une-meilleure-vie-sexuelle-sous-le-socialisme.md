@@ -1,18 +1,24 @@
 ---
 title: Pourquoi les femmes ont une meilleure vie sexuelle sous le socialisme ?
-description: Dans cet essai paru en 2018, l’anthropologue Kristen Ghodsee part d’un constat simple, « Le capitalisme est mauvais pour les femmes » (p. 29). Que faire, donc, après ce constat ? Trouver des voies alternatives et l’histoire du socialisme et du postsocialisme – dont est spécialiste Ghodsee – apporte un certain nombre de réponses.
+description: Dans cet essai paru en 2018, l’anthropologue Kristen Ghodsee part
+  d’un constat simple, « Le capitalisme est mauvais pour les femmes » (p. 29).
+  Que faire, donc, après ce constat ? Trouver des voies alternatives et
+  l’histoire du socialisme et du postsocialisme – dont est spécialiste Ghodsee –
+  apporte un certain nombre de réponses.
 category: Féminisme
 tags:
-    - archives
-    - collaboration
-    - numérique
-illustration: /articles/femme.webp
-illustrationDetails: Illustration de l'ouvrage "Pourquoi les femmes ont une meilleure vie sexuelle sous le socialisme ?" - Kristen Ghodsee
-date: 2024-07-17T00:00:00.000Z
+  - Féminisme
+  - Socialisme
+  - Sexualité
+  - Libération des femmes
+illustration: /articles/Vie-sexuelle-sous-le-socialisme/cover-kristen-ghodsee.webp
+illustrationDetails: Illustration de l'ouvrage "Pourquoi les femmes ont une
+  meilleure vie sexuelle sous le socialisme ?" - Kristen Ghodsee
+date: 2024-07-16T00:00:00.000Z
 archived: false
 ---
 
-Retour sur le livre de Kristen Ghodsee Pourquoi les femmes ont une meilleure vie sexuelle sous le socialisme.
+Retour sur le livre de Kristen Ghodsee [Pourquoi les femmes ont une meilleure vie sexuelle sous le socialisme](https://luxediteur.com/catalogue/pourquoi-les-femmes-ont-une-meilleure-vie-sexuelle-sous-le-socialisme-2).
 
 Dans cet essai paru en 2018 et traduit en français en 2020 par Charlotte Nordmann et Laura Raim, l’anthropologue Kristen Ghodsee part d’un constat simple : « Le capitalisme est mauvais pour les femmes » (p. 29). Que faire, donc, après ce constat ? Trouver des voies alternatives et l’histoire du socialisme et du postsocialisme – dont est spécialiste Ghodsee – apporte un certain nombre de réponses.
 
@@ -21,7 +27,8 @@ Dans cet essai paru en 2018 et traduit en français en 2020 par Charlotte Nordma
 Dès l’introduction Ghodsee nous livre un premier constat : l’échec de la transition du socialisme vers un nouveau modèle économique : le capitalisme néolibéral, amorçant privatisations massives des entreprises, et dérégulation totale des marchés. Durant la Guerre Froide, la menace communiste tendait à réguler le capitalisme. Mais « l’effondrement du socialisme d’Etat a inauguré une ère de triomphalisme pour le capitalisme occidental » (p. 46). L’éclosion brutale de ce capitalisme dans les ex-Etats socialistes est un « laboratoire idéal » permettant de saisir au maximum « les effets du capitalisme sur la vie des femmes » (p. 42).
 
 Et il se trouve que la transition postsocialiste s’est très mal passée : « les femmes d’Europe de l’Est sont redevenues des marchandises ».
-Le marché libre pénalise les femmes
+
+## Le marché libre pénalise les femmes
 
 Ce qui caractérise les femmes dans l’expérience du socialisme d’Etat c’est l’indépendance économique. L’anthropologue tire ce constat au travers l’étude de 5 axes que sont le travail, la maternité, le leadeurship, le sexe et la citoyenneté. Intéressons-nous ici aux deux premiers : le travail et la maternité.
 
@@ -36,28 +43,33 @@ Comment expliquer cet écart entre le taux de femmes dans la population active e
 Pour les femmes, l’expérience du socialisme d’Etat est entièrement différente. Dès 1897, Lili Braun militait en Allemagne pour le développement d’une assurance maternité financé par l’Etat. Une idée reprise en 1910 par les communistes russes Clara Zetkin et Alexandra Kollontai qui constitue « un des fondements de toutes les politiques socialistes qui suivront » (p. 97). Toujours sous l’impulsion de Kollontai, la toute jeune Russie soviétique envisage même la création de garderies, des foyers d’enfants afin de garder les enfants pendant le travail à l’usine de la maman – cela ne verra finalement pas le jour rattrapé par les conséquences de la Première Guerre mondiale et de la guerre civile.
 
 Des politiques de congés payés durant la période de maternité voient tout de même le jour. En 1951, le code du travail tchécoslovaque instaure 18 semaines de congés payés. Ainsi, la maternité n’est plus un risque de perdre son travail, la maternité n’est plus un risque de précarité. De l’autre côté, ce n’est qu’en 1993 qu’aux Etats Unis les femmes obtiennent le droit de bénéficier d’un congé – mais sans solde (ce qui n’est toujours pas obligatoire).
-Aimer et jouir sous le socialisme
 
-     « La morale communiste dans le domaine des relations conjugales exige […] la fin de tout type de relations fondées sur des considérations matérielles ou d’autres intérêts accessoires. L’achat et la vente de caresses abaissent le sens de l’égalité entre les sexes et sapent ainsi le fondement de la solidarité fraternelle sans laquelle la société communiste ne peut exister »
+## Aimer et jouir sous le socialisme
 
-    – Alexandra Kollontaï (cité p. 172)
+> « La morale communiste dans le domaine des relations conjugales exige \[…] la fin de tout type de relations fondées sur des considérations matérielles ou d’autres intérêts accessoires. L’achat et la vente de caresses abaissent le sens de l’égalité entre les sexes et sapent ainsi le fondement de la solidarité fraternelle sans laquelle la société communiste ne peut exister »
+>
+> – Alexandra Kollontaï (cité p. 172)
 
 L’anthropologue mobilise le concept de la théorie économique du sexe, ou théorie de l’échange sexuel (Paola Tabet) : pour comprendre les débuts d’une relation entre un homme et une femme il faut les envisager dans le contexte d’un marché où les femmes « vendent » du sexe et les hommes « achètent » ce sexe avec des ressources non sexuelles.
 
 En s’appuyant sur une série d’études réalisées en Allemagne entre 1985 et 1993 Kristen Ghodsee affirme que les femmes ont une meilleure vie sexuelle sous le socialisme. Ces enquêtes menées avant et après la réunification montrent que, jusqu’en 1993, les femmes vivant en Allemagne de l’Est rapportaient systématiquement un plus haut niveau d’épanouissement sexuel que les femmes de l’Allemagne de l’Ouest. Pourquoi ?
 
 Lorsque les femmes disposent de leurs propres revenus et que l’État assure leur sécurité sociale (vieillesse, maladie, invalidité) elles n’ont aucune raison économique de rester dans des relations abusives, insatisfaisantes ou malsaines. Sous le socialisme, comme ce fut le cas en Allemagne de l’Est ou en Albanie, cette indépendance économique des femmes a créé une culture où les relations personnelles pouvaient être libérées des pressions du marché. Les femmes n’étaient pas contraintes de se marier pour des raisons financières. Dès lors, en capacité de réellement choisir leur partenaire, les femmes ont une meilleure vie sexuelle.
-L’Allemagne, modèle de la démonstration.
 
-    « J’ai plus de pouvoir en tant qu’homme dans l’Allemagne réunifiée que je n’en ai jamais eu à l’époque »,
+## L’Allemagne, modèle de la démonstration.
 
-    – Un ex-citoyen est-allemand (cité par K. Ghodsee)
+> *« J’ai plus de pouvoir en tant qu’homme dans l’Allemagne réunifiée que je n’en ai jamais eu à l’époque »*
+>
+> – Un ex-citoyen est-allemand (cité par K. Ghodsee)
 
 Outre le fait que les femmes d’Allemagne de l’Est rapportent un bien meilleur niveau de satisfaction sexuelle que leurs homologues de l’Ouest, l’exemple est-allemand est un exemple paroxystique de ce que démontre K. Ghodsee.
 
-1989, chute du mur de Berlin ; 1990, réunification. Mais cette réunification n’en fut pas une. Il conviendrait peut-être d’utiliser le terme d’annexion. L’annexion de l’Allemagne de l’Est par sa voisine de l’Ouest a, en plus d’un effondrement social massif et d’une importante prédation économique, provoqué la disparition complète et totale du style de vie est-allemand et, par conséquent, des efforts pour soutenir l’indépendance économique des femmes…
-Que faire ?
+1989, chute du mur de Berlin ; 1990, réunification. Mais cette réunification n’en fut pas une. [Il conviendrait peut-être d’utiliser le terme d’annexion](https://www.monde-diplomatique.fr/2019/11/KNAEBEL/60911). L’annexion de l’Allemagne de l’Est par sa voisine de l’Ouest a, en plus d’un effondrement social massif et d’une importante prédation économique, provoqué la disparition complète et totale du style de vie est-allemand et, par conséquent, des efforts pour soutenir l’indépendance économique des femmes…
+
+## Que faire ?
 
 Si les constats de K. Ghodsee sur les expériences issues de ce qu’elle apelle le « socialisme étatique » sont intéressants, la voie que l’anthropologue propose ne parait pas convaincante. Elle ambitionne une « troisième voie » entre le « modèle capitaliste » et le « socialisme étatique » qu’elle nomme « socialisme démocratique ». Ce « socialisme démocratique » serait la social-démocratie proche de ce qu’on observe en Norvège. Mais le système économique norvégien n’a rien de socialiste.
 
 Alors revenons à Alexandra Kollontaï : « la libération des femmes ne pourra passer que par l’œuvre communiste ».
+
+![Photo d'Alexandra Kollontaï dans une robe noire](/articles/Vie-sexuelle-sous-le-socialisme/kollontai-in-black-dress.jpg)
