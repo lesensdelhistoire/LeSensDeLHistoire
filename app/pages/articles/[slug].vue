@@ -125,7 +125,7 @@
 
 						<img
 							@click="open = true"
-							class="h-90 w-full cursor-zoom-in border-2 border-neutral-200 object-cover object-center transition-all hover:border-4"
+							class="h-90 w-full cursor-zoom-in border-2 border-neutral-200 object-cover object-center transition-all select-none hover:border-4"
 							:src="article.illustration"
 							:alt="article.illustrationDetails"
 						/>
@@ -134,7 +134,7 @@
 							<div
 								v-show="open"
 								@click.self="open = false"
-								class="modal bg-accented/80 fixed top-0 z-10 flex h-dvh w-full flex-col items-center justify-center gap-1.5 p-2.5 backdrop-blur-lg transition-all sm:p-5 md:p-10"
+								class="modal bg-accented/80 fixed top-0 z-10 flex h-dvh w-full flex-col items-center justify-center gap-1.5 p-2.5 backdrop-blur-lg transition-all select-none sm:p-5 md:p-10"
 							>
 								<img
 									@click="open = false"
@@ -148,7 +148,6 @@
 								</p>
 							</div>
 						</Teleport>
-
 
 						<NuxtLink
 							:to="`/?category=${article.category
