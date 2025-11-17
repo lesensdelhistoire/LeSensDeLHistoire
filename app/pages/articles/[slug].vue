@@ -82,6 +82,7 @@
 					v-if="article?.body?.toc?.links?.length"
 					:links="article.body.toc.links"
 					color="neutral"
+					highlight
 					highlight-color="neutral"
 				/>
 			</UPageAside>
@@ -103,7 +104,7 @@
 							}"
 						>
 							<img
-								class="h-90 w-full cursor-pointer border-2 border-neutral-200 object-cover object-center transition-all hover:border-4"
+								class="h-90 w-full cursor-zoom-in border-2 border-neutral-200 object-cover object-center transition-all hover:border-4"
 								:src="article.illustration"
 								:alt="article.illustrationDetails"
 							/>
