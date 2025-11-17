@@ -43,7 +43,9 @@ Un processus d’information qui se tourne comme nous l’avons évoqué vers le
 
 Nous partions du constat qu’il était étonnant d’évoquer Barbara comme *agente*[26](#user-content-fn-26){#user-content-fnref-26 aria-described-by="footnote-label" dataFootnoteRef=""} politique, pourtant c’est bien ce qu’elle fut. En ce tout début d’année 1987, la « femme qui chante » prend position médiatiquement sur le SIDA alors qu’aucune politique publique n’est encore mise en place.  Elle dénonce la « non-information » sur le sujet. Son combat est celui de l’information (prévention) : il faut informer et faire prendre conscience qu’il faut informer. Sa parole est performative. Sur France Inter Barbara sait à qui elle s’adresse et sait qu’elle est écoutée. Mais, pour évoquer le virus, elle ne rentre pas dans les carcans médiatiques classiques homosexualisant le SIDA. Elle vient couper le lien public entre la communauté homosexuelle et la maladie. Pour la chanteuse, le SIDA est l’affaire de toutes et tous. La parole médiatique de Barbara est d’autant plus précieuse qu’elle se fit uniquement à la radio et à 6 reprises entre 1987 et 1996. De fait, la majeure partie de l’action de prévention et de soutien aux malades qu’exerça la dame en noir ne se déroula pas à la lumière des médias. Comme elle l’écrit dans ses mémoires « pour participer à l’action contre le Sida \[…] je décidai d’emprunter mes dédales personnels[27](#user-content-fn-27){#user-content-fnref-27 aria-described-by="footnote-label" dataFootnoteRef=""}». Elle visita ainsi, sans médias, de nombreuses prisons organisant, avec l’infectiologue Gilles Pialoux, des concerts-prévention.
 
-## Footnotes
+---
+
+## Notes
 
 1. Didier Eribon, Retour à Reims, Paris, Fayard, 2009, p. 214. [↩](#user-content-fnref-1){.data-footnote-backref ariaLabel="Back to reference 1" dataFootnoteBackref=""}
 2. Nous emploierons au cours de l’article l’acronyme SIDA ; celui de VIH, plus approprié aujourd’hui, est anachronique et n’est pas utilisé par Barbara. [↩](#user-content-fnref-2){.data-footnote-backref ariaLabel="Back to reference 2" dataFootnoteBackref=""}
