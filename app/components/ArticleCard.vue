@@ -37,7 +37,7 @@
 				>
 					<img
 						:src="article.illustration"
-						class="h-full scale-110 object-cover object-center transition-transform group-hover:scale-100"
+						class="h-full w-full scale-110 object-cover object-center transition-transform group-hover:scale-100"
 						:alt="article.illustrationDetails"
 					/>
 				</div>

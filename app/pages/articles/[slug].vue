@@ -40,6 +40,22 @@
 		return Math.ceil(wordsInArticle.value / averageWPM);
 	});
 
+	const open = ref(false);
+
+	const handleScroll = () => {
+		if (open.value) {
+			open.value = false;
+		}
+	};
+
+	onMounted(() => {
+		window.addEventListener('scroll', handleScroll, { passive: true });
+	});
+
+	onBeforeUnmount(() => {
+		window.removeEventListener('scroll', handleScroll);
+	});
+
 	useSeoMeta({
 		title: `${article.value?.title} • LeSensDeLHistoire`,
 		ogTitle: `${article.value?.title} • LeSensDeLHistoire`,
@@ -98,9 +114,35 @@
 							icon="lucide:chevron-left"
 						/>
 
-						<UModal
+						<img
+							@click="open = true"
+							class="h-90 w-full cursor-zoom-in border-2 border-neutral-200 object-cover object-center transition-all hover:border-4"
+							:src="article.illustration"
+							:alt="article.illustrationDetails"
+						/>
+
+						<Teleport to="#teleports">
+							<div
+								v-show="open"
+								@click.self="open = false"
+								class="modal bg-accented/80 fixed top-0 z-10 flex h-dvh w-full flex-col items-center justify-center gap-1.5 p-2.5 backdrop-blur-lg transition-all sm:p-5 md:p-10"
+							>
+								<img
+									@click="open = false"
+									class="h-fit w-full cursor-zoom-out object-contain object-center transition-all sm:max-h-9/10"
+									:class="open ? 'scale-100' : 'scale-90'"
+									:src="article.illustration"
+									:alt="article.illustrationDetails"
+								/>
+								<p class="text-muted px-3 text-xs">
+									{{ article.illustrationDetails }}
+								</p>
+							</div>
+						</Teleport>
+
+						<!-- <UModal
 							:ui="{
-								content: 'rounded-none',
+								content: 'rounded-none h-9/10 w-200',
 							}"
 						>
 							<img
@@ -112,14 +154,14 @@
 							<template #content>
 								<img
 									:src="article.illustration"
-									class="h-full w-full rounded-none"
+									class="w-full rounded-none"
 								/>
 
 								<p class="text-muted px-3 py-2 text-xs">
 									{{ article.illustrationDetails }}
 								</p>
 							</template>
-						</UModal>
+						</UModal> -->
 
 						<NuxtLink
 							:to="`/?category=${article.category
