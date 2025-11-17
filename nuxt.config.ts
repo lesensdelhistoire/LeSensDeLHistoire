@@ -3,15 +3,6 @@ export default defineNuxtConfig({
 	compatibilityDate: '2025-07-15',
 	devtools: { enabled: true },
 
-	nitro: {
-		prerender: {
-			// Pre-render the homepage
-			routes: ['/', '/articles', '/articles/[slug]'],
-			// Then crawl all the links on the page
-			crawlLinks: true,
-		},
-	},
-
 	modules: ['@nuxt/ui', '@nuxt/content', 'nuxt-studio', '@compodium/nuxt'],
 	css: ['~/assets/css/main.css'],
 	ui: {
