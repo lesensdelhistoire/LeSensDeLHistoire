@@ -49,14 +49,38 @@
 		queryCollection('pages').first(),
 	);
 
+	const seoDescription = computed(() => {
+		const categoryList = categories.value
+			?.slice(0, 5)
+			.map((cat) => `"${cat.label || cat.meta?.title}"`)
+			.join(', ');
+
+		const articleList = articles.value
+			?.slice(0, 5)
+			.map((a) => `"${a.title}"`)
+			.join(', ');
+
+		return [
+			page.value?.description,
+			categories.value?.length
+				? `Retrouvez ces thématiques : ${categoryList}, etc.`
+				: '',
+			articles.value?.length
+				? `\n\nParmi les derniers articles publiés : ${articleList}, etc.`
+				: '',
+		]
+			.filter(Boolean)
+			.join('\n\n');
+	});
+
 	useSeoMeta({
 		title: page.value?.title,
 		ogTitle: page.value?.title,
 		twitterTitle: page.value?.title,
 
-		description: page.value?.description,
-		ogDescription: page.value?.description,
-		twitterDescription: page.value?.description,
+		description: seoDescription.value,
+		ogDescription: seoDescription.value,
+		twitterDescription: seoDescription.value,
 
 		ogImage: page.value?.seoImage,
 		ogUrl: page.value?.seoImage,

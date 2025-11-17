@@ -56,23 +56,21 @@
 		window.removeEventListener('scroll', handleScroll);
 	});
 
+	const seoDescription = computed(() => {
+		if (article.value?.tags && article.value.tags.length) {
+			return `${article.value?.description} - #${article.value.tags.join(', #')}`;
+		}
+		return article.value?.description;
+	});
+
 	useSeoMeta({
 		title: `${article.value?.title} • LeSensDeLHistoire`,
 		ogTitle: `${article.value?.title} • LeSensDeLHistoire`,
 		twitterTitle: `${article.value?.title} • LeSensDeLHistoire`,
 
-		description:
-			article.value?.tags && article.value.tags.length
-				? `${article.value?.description} - #${article.value.tags.join(', #')}`
-				: article.value?.description,
-		ogDescription:
-			article.value?.tags && article.value.tags.length
-				? `${article.value?.description} - #${article.value.tags.join(', #')}`
-				: article.value?.description,
-		twitterDescription:
-			article.value?.tags && article.value.tags.length
-				? `${article.value?.description} - #${article.value.tags.join(', #')}`
-				: article.value?.description,
+		description: seoDescription.value,
+		ogDescription: seoDescription.value,
+		twitterDescription: seoDescription.value,
 
 		ogImage: article.value?.illustration,
 		ogUrl: article.value?.illustration,
