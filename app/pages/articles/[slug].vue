@@ -14,6 +14,17 @@
 				.first(),
 	);
 
+	const { data: surround } = await useAsyncData(
+		`${route.path}-surround`,
+		() =>
+			queryCollectionItemSurroundings('articles', route.path, {
+				fields: ['title', 'description', 'date'],
+			})
+				.where('archived', '=', false)
+				// .where('category', '=', article.value?.category)
+				.order('date', 'DESC'),
+	);
+
 	if (!article.value) {
 		throw createError({
 			statusCode: 404,
@@ -138,28 +149,6 @@
 							</div>
 						</Teleport>
 
-						<!-- <UModal
-							:ui="{
-								content: 'rounded-none h-9/10 w-200',
-							}"
-						>
-							<img
-								class="h-90 w-full cursor-zoom-in border-2 border-neutral-200 object-cover object-center transition-all hover:border-4"
-								:src="article.illustration"
-								:alt="article.illustrationDetails"
-							/>
-
-							<template #content>
-								<img
-									:src="article.illustration"
-									class="w-full rounded-none"
-								/>
-
-								<p class="text-muted px-3 py-2 text-xs">
-									{{ article.illustrationDetails }}
-								</p>
-							</template>
-						</UModal> -->
 
 						<NuxtLink
 							:to="`/?category=${article.category
@@ -212,6 +201,14 @@
 					<ContentRenderer :value="article.body" />
 				</div>
 			</UPageBody>
+
+			<USeparator v-if="surround && surround.some(Boolean)" />
+
+			<UContentSurround
+				class="mt-15 mb-10"
+				v-if="surround && surround.some(Boolean)"
+				:surround="surround"
+			/>
 		</UContainer>
 	</UPage>
 </template>
