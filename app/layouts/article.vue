@@ -18,7 +18,7 @@
 		<slot />
 	</UMain>
 
-	<footer>
-		<p>Copyright 2025 Le Sens de l'Histoire</p>
-	</footer>
+	<USeparator />
+
+	<HFooter />
 </template>
