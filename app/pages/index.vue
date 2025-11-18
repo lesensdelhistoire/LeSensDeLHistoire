@@ -62,11 +62,11 @@
 
 		return [
 			page.value?.description,
-			categories.value?.length
-				? `Retrouvez ces thématiques : ${categoryList}, etc.`
-				: '',
 			articles.value?.length
-				? `\n\nParmi les derniers articles publiés : ${articleList}, etc.`
+				? `Parmi les derniers articles publiés : ${articleList}, etc.`
+				: '',
+			categories.value?.length
+				? `\nRetrouvez ces thématiques : ${categoryList}, etc.`
 				: '',
 		]
 			.filter(Boolean)
