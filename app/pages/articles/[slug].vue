@@ -128,7 +128,7 @@
 								icon="lucide:chevron-left"
 							/>
 
-							<UColorModeButton variant="outline" />
+							<UColorModeButton variant="subtle" />
 						</div>
 
 						<img
