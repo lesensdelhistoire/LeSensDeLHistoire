@@ -33,7 +33,7 @@
 				:class="horizontal ? 'col-span-1' : ''"
 			>
 				<div
-					class="flex aspect-square w-full items-center justify-center overflow-hidden border border-neutral-200"
+					class="border-accented flex aspect-square w-full items-center justify-center overflow-hidden border"
 				>
 					<img
 						:src="article.illustration"
@@ -43,7 +43,7 @@
 				</div>
 
 				<div
-					class="bg-elevated group-hover:bg-accented flex h-fit w-full justify-center py-0.5 text-xs transition-colors"
+					class="bg-elevated group-hover:bg-accented flex h-fit w-full justify-center py-0.5 text-xs transition-colors dark:bg-[#292929]"
 				>
 					{{ article.category }}
 				</div>

@@ -93,7 +93,11 @@
 	<UPage>
 		<UContainer class="flex w-full max-w-212 flex-col gap-12">
 			<UPageHeader>
-				<UContentSearchButton :collapsed="false" class="w-full" />
+				<div class="flex w-full gap-2.5">
+					<UContentSearchButton :collapsed="false" class="w-full" />
+
+					<UColorModeButton variant="outline" />
+				</div>
 
 				<ClientOnly>
 					<LazyUContentSearch
@@ -107,7 +111,7 @@
 
 				<ul class="mt-2.5 flex w-full gap-2.5 overflow-scroll">
 					<li v-for="category in categories" :key="category.label">
-						<CategorySelector
+						<HCategorySelector
 							:categoryLabel="
 								category.label ||
 								(category.meta.title as string)
@@ -124,7 +128,7 @@
 					<ul
 						class="grid grid-cols-1 gap-2.5 sm:grid-cols-2 md:grid-cols-3"
 					>
-						<ArticleCard
+						<HArticleCard
 							v-for="article in filteredArticles"
 							:key="article.path"
 							:article="article"

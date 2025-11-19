@@ -35,7 +35,7 @@
 		:class="
 			isCategorySelected
 				? 'bg-accented border-accented'
-				: 'bg-muted hover:bg-elevated hover:border-muted border-neutral-200'
+				: 'bg-muted hover:bg-elevated hover:border-muted border-default dark:border-accented dark:hover:bg-[#303030]'
 		"
 		@click="handleClick"
 	>

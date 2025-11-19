@@ -5,9 +5,6 @@ export default defineNuxtConfig({
 
 	modules: ['@nuxt/ui', '@nuxt/content', 'nuxt-studio', '@compodium/nuxt'],
 	css: ['~/assets/css/main.css'],
-	ui: {
-		colorMode: false,
-	},
 
 	content: {
 		build: {

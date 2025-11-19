@@ -96,6 +96,10 @@
 
 <template>
 	<UPage v-if="article">
+		<ClientOnly>
+			<UContentSearch />
+		</ClientOnly>
+
 		<template #left>
 			<UPageAside></UPageAside>
 		</template>
@@ -117,15 +121,19 @@
 			<UPageHeader class="border-b-0">
 				<div class="flex flex-col gap-10">
 					<div class="flex flex-col items-start gap-2.5">
-						<HButton
-							to="/"
-							label="Retour"
-							icon="lucide:chevron-left"
-						/>
+						<div class="flex w-full justify-between gap-2.5">
+							<HButton
+								to="/"
+								label="Retour"
+								icon="lucide:chevron-left"
+							/>
+
+							<UColorModeButton variant="outline" />
+						</div>
 
 						<img
 							@click="open = true"
-							class="h-90 w-full cursor-zoom-in border-2 border-neutral-200 object-cover object-center transition-all select-none hover:border-4"
+							class="border-muted h-90 w-full cursor-zoom-in border-2 object-cover object-center transition-all select-none hover:border-4"
 							:src="article.illustration"
 							:alt="article.illustrationDetails"
 						/>
@@ -155,13 +163,13 @@
 								.normalize('NFD')
 								.replace(/[\u0300-\u036f]/g, '')
 								.trim()}`"
-							class="bg-muted hover:bg-elevated flex w-full items-center justify-center px-2.5 py-1 text-xs transition-colors"
+							class="bg-muted hover:bg-elevated flex w-full items-center justify-center px-2.5 py-1 text-xs transition-colors dark:hover:bg-[#303030]"
 						>
 							{{ article.category }}
 						</NuxtLink>
 
 						<ul class="flex w-full flex-wrap gap-2.5">
-							<ArticleTag
+							<HArticleTag
 								v-for="tag in article.tags"
 								:key="tag"
 								:tag="tag"
