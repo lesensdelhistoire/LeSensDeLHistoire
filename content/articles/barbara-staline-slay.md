@@ -8,7 +8,7 @@ tags:
 title: Inauguration par Barbara du jubilé international en l'honneur du camarade Corentin, fossoyeur de Franco
 description: Dans le cadre d’une célébration qui s’inscrit déjà dans les annales de la lutte internationale, la légendaire cantatrice française Barbara, icône intemporelle du chant et désormais pilier indéfectible du marxisme, a proclamé l’inauguration officielle du « Jubilé International en l'honneur de Corentin » dédié à son camarade de toujours, le vaillant Corentin, surnommé le « fossoyeur de Franco ».
 category: Anniversaire
-archived: false
+archived: true
 illustration: /articles/barbara-staline-slay/barbara-staline-slay.png
 date: 2001-11-19T00:00:00.000Z
 ---

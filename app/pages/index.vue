@@ -1,6 +1,8 @@
 <script setup lang="ts">
 	const { data: navigation } = await useAsyncData('navigation', () =>
-		queryCollectionNavigation('articles'),
+		queryCollectionNavigation('articles')
+			.where('archived', '=', false)
+			.order('date', 'DESC'),
 	);
 	const { data: files } = useLazyAsyncData(
 		'search',
