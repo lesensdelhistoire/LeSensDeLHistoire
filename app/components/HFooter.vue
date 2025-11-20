@@ -41,7 +41,7 @@
 
 <template>
 	<div class="bg-muted text-dimmed flex w-full justify-center py-5 text-xs">
-		<UFooter class="w-full max-w-200">
+		<UFooter class="w-full max-w-200 px-5">
 			<template #top>
 				<p>{{ page?.description }}</p>
 			</template>

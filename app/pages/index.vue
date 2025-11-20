@@ -94,9 +94,16 @@
 		<UContainer class="flex w-full max-w-212 flex-col gap-12">
 			<UPageHeader>
 				<div class="flex w-full gap-2.5">
-					<UContentSearchButton :collapsed="false" class="w-full" />
+					<UContentSearchButton
+						:collapsed="false"
+						variant="subtle"
+						class="bg-muted hover:bg-elevated border-muted w-full rounded-none dark:hover:bg-[#303030]"
+					/>
 
-					<UColorModeButton variant="outline" />
+					<UColorModeButton
+						variant="subtle"
+						class="bg-muted hover:bg-elevated border-muted rounded-none dark:hover:bg-[#303030]"
+					/>
 				</div>
 
 				<ClientOnly>
@@ -106,20 +113,24 @@
 						shortcut="meta_k"
 						:navigation="navigation"
 						:fuse="{ resultLimit: 42 }"
+						class="rounded-none"
 					/>
 				</ClientOnly>
 
-				<ul class="mt-2.5 flex w-full gap-2.5 overflow-scroll">
-					<li v-for="category in categories" :key="category.label">
-						<HCategorySelector
-							:categoryLabel="
-								category.label ||
-								(category.meta.title as string)
-							"
-							:selected="selectedCategory"
-						/>
-					</li>
-				</ul>
+				<UCarousel
+					v-slot="{ item: category }"
+					wheel-gestures
+					:items="categories"
+					:ui="{ item: 'basis-auto' }"
+					class="mt-2.5 w-full"
+				>
+					<HCategorySelector
+						:categoryLabel="
+							category.label || (category.meta.title as string)
+						"
+						:selected="selectedCategory"
+					/>
+				</UCarousel>
 			</UPageHeader>
 
 			<UPageBody>

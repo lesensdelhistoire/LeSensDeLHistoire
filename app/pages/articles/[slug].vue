@@ -128,7 +128,10 @@
 								icon="lucide:chevron-left"
 							/>
 
-							<UColorModeButton variant="subtle" />
+							<UColorModeButton
+								variant="subtle"
+								class="bg-muted hover:bg-elevated border-muted rounded-none dark:hover:bg-[#303030]"
+							/>
 						</div>
 
 						<img
@@ -199,7 +202,9 @@
 						/>
 					</li>
 
-					<li>Temps de lecture : {{ readingTime }} minutes</li>
+					<ClientOnly>
+						<li>Temps de lecture : {{ readingTime }} minutes</li>
+					</ClientOnly>
 				</ul>
 
 				<div
