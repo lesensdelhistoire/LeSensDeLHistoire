@@ -29,6 +29,7 @@ export default defineNuxtConfig({
 		'@nuxt/content',
 		'nuxt-studio',
 		'@compodium/nuxt',
+		'@nuxt/hints',
 	],
 	css: ['~/assets/css/main.css'],
 
