@@ -1,0 +1,9 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: http://[::1]:3000/sitemap.xml
+# DEVELOPMENT HINTS:
+# - You are mocking a production enviroment with ?mockProductionEnv query.
+
+# END nuxt-robots
