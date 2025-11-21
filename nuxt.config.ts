@@ -3,6 +3,24 @@ export default defineNuxtConfig({
 	compatibilityDate: '2025-07-15',
 	devtools: { enabled: true },
 
+	app: {
+		head: {
+			title: 'Le Sens de l’Histoire',
+
+			htmlAttrs: {
+				lang: 'fr-FR',
+			},
+
+			link: [
+				{
+					rel: 'icon',
+					type: 'image/png',
+					href: '/favicon.png',
+				},
+			],
+		},
+	},
+
 	modules: ['@nuxt/ui', '@nuxt/content', 'nuxt-studio', '@compodium/nuxt'],
 	css: ['~/assets/css/main.css'],
 
