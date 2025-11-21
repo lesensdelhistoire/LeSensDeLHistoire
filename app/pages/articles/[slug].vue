@@ -33,22 +33,45 @@
 		});
 	}
 
+	const countWordsInNode = (node: unknown): number => {
+		if (typeof node === 'string') {
+			const words = node.trim().split(/\s+/u).filter(Boolean);
+			return words.length;
+		}
+
+		if (Array.isArray(node)) {
+			let startIndex = 1;
+
+			if (
+				typeof node[1] === 'object' &&
+				!Array.isArray(node[1]) &&
+				node[1] !== null
+			) {
+				startIndex = 2;
+			}
+
+			let total = 0;
+			for (let i = startIndex; i < node.length; i += 1) {
+				total += countWordsInNode(node[i]);
+			}
+
+			return total;
+		}
+
+		return 0;
+	};
+
 	const readingTime = computed(() => {
 		const averageWPM = 200;
 
-		const wordsInArticle = ref(0);
+		const bodyValue = article.value?.body.value ?? [];
 
-		const bodyValue = article.value?.body.value;
-		if (bodyValue !== undefined) {
-			for (const paragraph of bodyValue) {
-				const text = paragraph[2];
-				if (typeof text === 'string') {
-					wordsInArticle.value += text.split(' ').length;
-				}
-			}
-		}
+		const totalWords = bodyValue.reduce(
+			(acc, paragraph) => acc + countWordsInNode(paragraph),
+			0,
+		);
 
-		return Math.ceil(wordsInArticle.value / averageWPM);
+		return Math.max(1, Math.ceil(totalWords / averageWPM));
 	});
 
 	const open = ref(false);
