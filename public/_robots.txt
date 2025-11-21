@@ -1,2 +1,7 @@
-User-Agent: *
-Disallow:
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: https://lesensdelhistoire.org/sitemap.xml
+
+# END nuxt-robots

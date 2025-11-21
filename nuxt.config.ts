@@ -22,13 +22,27 @@ export default defineNuxtConfig({
 	},
 
 	modules: [
-		'@nuxtjs/seo',
+		'nuxt-site-config',
+		'nuxt-schema-org',
+		'@nuxtjs/sitemap',
 		'@nuxt/ui',
 		'@nuxt/content',
 		'nuxt-studio',
 		'@compodium/nuxt',
 	],
 	css: ['~/assets/css/main.css'],
+
+	site: {
+		url: 'https://lesensdelhistoire.org',
+		title: 'Le Sens de l’Histoire',
+		name: 'Le Sens de l’Histoire',
+		indexable: true,
+	},
+
+	sitemap: {
+		autoLastmod: true,
+		discoverImages: true,
+	},
 
 	content: {
 		build: {

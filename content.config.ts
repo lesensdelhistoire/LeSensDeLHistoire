@@ -1,4 +1,5 @@
 import { defineContentConfig, defineCollection, property } from '@nuxt/content';
+import { asSitemapCollection } from '@nuxtjs/sitemap/content';
 import { date, z } from 'zod';
 
 export default defineContentConfig({
@@ -27,6 +28,13 @@ export default defineContentConfig({
 				archived: z.boolean(),
 			}),
 		}),
+
+		articlesSitemap: defineCollection(
+			asSitemapCollection({
+				type: 'page',
+				source: 'articles/*.md',
+			}),
+		),
 
 		categories: defineCollection({
 			type: 'data',
