@@ -88,6 +88,10 @@
 		ogUrl: page.value?.seoImage,
 		twitterImage: page.value?.seoImage,
 		twitterCard: 'summary_large_image',
+
+		// slack unfurling
+		twitterData1: 'Le Sens de l’Histoire',
+		twitterLabel1: 'Author',
 	});
 </script>
 

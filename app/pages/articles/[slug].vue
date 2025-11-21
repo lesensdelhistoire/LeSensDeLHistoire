@@ -110,6 +110,18 @@
 		ogUrl: article.value?.illustration,
 		twitterImage: article.value?.illustration,
 		twitterCard: 'summary_large_image',
+
+		articleAuthor: ['Le Sens de l’Histoire'],
+		articleSection: article.value.category,
+		articleTag: article.value.tags?.map((tag) => tag),
+		articlePublishedTime: article.value.date,
+		articleModifiedTime: article.value.date,
+
+		// slack unfurling
+		twitterData1: 'Le Sens de l’Histoire',
+		twitterLabel1: 'Author',
+		twitterData2: `${readingTime.value} minutes`,
+		twitterLabel2: 'Read Time',
 	});
 
 	useHead({
