@@ -48,7 +48,7 @@ export default defineAppConfig({
 
 			a: {
 				base: [
-					'text-red-800 dark:text-red-500 border-b border-transparent hover:border-red-800 dark:dark:border-red-500 font-medium focus-visible:outline-red-800 dark:focus-visible:outline-red-500 [&>code]:border-dashed hover:[&>code]:border-red-800 dark:hover:[&>code]:border-red-500 hover:[&>code]:text-red-800 dark:hover:[&>code]:text-red-500',
+					'text-red-800 dark:text-red-400 border-b border-transparent hover:border-red-800 dark:hover:border-red-400 font-medium focus-visible:outline-red-800 dark:focus-visible:outline-red-400 [&>code]:border-dashed hover:[&>code]:border-red-800 dark:hover:[&>code]:border-red-400 hover:[&>code]:text-red-800 dark:hover:[&>code]:text-red-400',
 					'transition-colors [&>code]:transition-colors',
 				],
 			},

@@ -93,6 +93,13 @@
 		twitterData1: 'Le Sens de l’Histoire',
 		twitterLabel1: 'Author',
 	});
+
+	useSchemaOrg([
+		defineWebSite({
+			name: 'Le Sens de l’Histoire',
+			description: seoDescription.value,
+		}),
+	]);
 </script>
 
 <template>

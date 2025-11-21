@@ -124,6 +124,24 @@
 		twitterLabel2: 'Read Time',
 	});
 
+	useSchemaOrg([
+		defineArticle({
+			headline: article.value?.title,
+			description: article.value?.description,
+
+			datePublished: article.value?.date,
+			dateModified: article.value?.date,
+
+			image: article.value?.illustration,
+			thumbnailUrl: article.value?.illustration,
+			wordCount: () =>
+				article.value?.body.value.reduce(
+					(acc, paragraph) => acc + countWordsInNode(paragraph),
+					0,
+				),
+		}),
+	]);
+
 	useHead({
 		title: `${article.value?.title} • LeSensDeLHistoire`,
 	});
