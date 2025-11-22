@@ -18,6 +18,7 @@
 		"nuxt-schema-org": "^5.0.9",
 		"nuxt-site-config": "^3.2.11",
 		"nuxt-studio": "1.0.0-alpha.1",
+		"posthog-js": "^1.297.2",
 		"tailwindcss": "^4.1.17",
 		"typescript": "^5.6.3",
 		"vue": "^3.5.22",
