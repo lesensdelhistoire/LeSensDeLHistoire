@@ -12,6 +12,7 @@ export default defineNuxtPlugin((nuxtApp) => {
 	const posthogClient = posthog.init(runtimeConfig.public.posthogPublicKey, {
 		api_host: runtimeConfig.public.posthogHost,
 		defaults: '2025-05-24',
+		cookieless_mode: 'always',
 	});
 
 	return {
