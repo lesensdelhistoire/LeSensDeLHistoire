@@ -25,6 +25,7 @@ export default defineNuxtConfig({
 		public: {
 			posthogPublicKey: process.env.POSTHOG_PUBLIC_KEY,
 			posthogHost: process.env.POSTHOG_HOST,
+			posthogDefaults: '2025-05-24',
 		},
 	},
 

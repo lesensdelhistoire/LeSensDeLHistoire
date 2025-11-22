@@ -10,13 +10,8 @@ export default defineNuxtPlugin((nuxtApp) => {
 	}
 
 	const posthogClient = posthog.init(runtimeConfig.public.posthogPublicKey, {
-		api_host: '/ingest',
-		ui_host: runtimeConfig.public.posthogHost,
-		person_profiles: 'always', // 'identified_only' or 'always' to create profiles for anonymous users as well
-	});
-
-	nuxtApp.hook('vue:error', (error) => {
-		posthogClient.captureException(error);
+		api_host: runtimeConfig.public.posthogHost,
+		defaults: '2025-05-24',
 	});
 
 	return {
