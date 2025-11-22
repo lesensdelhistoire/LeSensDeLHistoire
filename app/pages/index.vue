@@ -47,7 +47,7 @@
 			: allArticles;
 	});
 
-	const { data: page } = await useAsyncData('page', () =>
+	const { data: page } = await useAsyncData('homePage', () =>
 		queryCollection('pages').first(),
 	);
 
