@@ -34,6 +34,11 @@
 					to: 'https://tailwindcss.com',
 					target: '_blank',
 				},
+				{
+					label: 'Posthog',
+					to: 'https://posthog.com',
+					target: '_blank',
+				},
 			],
 		},
 	];
