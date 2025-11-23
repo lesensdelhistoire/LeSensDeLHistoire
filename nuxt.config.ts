@@ -21,13 +21,7 @@ export default defineNuxtConfig({
 		},
 	},
 
-	runtimeConfig: {
-		public: {
-			posthogPublicKey: process.env.POSTHOG_PUBLIC_KEY,
-			posthogHost: process.env.POSTHOG_HOST,
-			posthogDefaults: '2025-05-24',
-		},
-	},
+	css: ['~/assets/css/main.css'],
 
 	modules: [
 		'nuxt-site-config',
@@ -38,8 +32,8 @@ export default defineNuxtConfig({
 		'nuxt-studio',
 		'@compodium/nuxt',
 		'@nuxt/hints',
+		'@posthog/nuxt',
 	],
-	css: ['~/assets/css/main.css'],
 
 	site: {
 		url: 'https://lesensdelhistoire.org',
@@ -87,6 +81,14 @@ export default defineNuxtConfig({
 			provider: 'github',
 			owner: 'banedPowell',
 			repo: 'LeSensDeLHistoire',
+		},
+	},
+
+	posthogConfig: {
+		publicKey: 'phc_1FfNnLofjJeZSYIZruqW3SHHerUjMV28iGOp8fIyc3p',
+		host: 'https://eu.i.posthog.com',
+		clientConfig: {
+			// cookieless_mode: 'always',
 		},
 	},
 });
