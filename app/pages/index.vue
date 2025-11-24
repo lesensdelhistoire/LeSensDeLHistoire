@@ -97,7 +97,7 @@
 	useSchemaOrg([
 		defineWebSite({
 			name: 'Le Sens de l’Histoire',
-			description: seoDescription.value,
+			description: () => seoDescription.value,
 		}),
 	]);
 </script>
