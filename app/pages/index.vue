@@ -76,17 +76,17 @@
 	});
 
 	useSeoMeta({
-		title: page.value?.title,
-		ogTitle: page.value?.title,
-		twitterTitle: page.value?.title,
+		title: () => page.value?.title,
+		ogTitle: () => page.value?.title,
+		twitterTitle: () => page.value?.title,
 
-		description: seoDescription.value,
-		ogDescription: seoDescription.value,
-		twitterDescription: seoDescription.value,
+		description: () => seoDescription.value,
+		ogDescription: () => seoDescription.value,
+		twitterDescription: () => seoDescription.value,
 
-		ogImage: page.value?.seoImage,
-		ogUrl: page.value?.seoImage,
-		twitterImage: page.value?.seoImage,
+		ogImage: () => page.value?.seoImage,
+		ogUrl: () => page.value?.seoImage,
+		twitterImage: () => page.value?.seoImage,
 		twitterCard: 'summary_large_image',
 
 		// slack unfurling
