@@ -126,14 +126,14 @@
 
 	useSchemaOrg([
 		defineArticle({
-			headline: article.value?.title,
-			description: article.value?.description,
+			headline: () => article.value?.title,
+			description: () => article.value?.description,
 
-			datePublished: article.value?.date,
-			dateModified: article.value?.date,
+			datePublished: () => article.value?.date,
+			dateModified: () => article.value?.date,
 
-			image: article.value?.illustration,
-			thumbnailUrl: article.value?.illustration,
+			image: () => article.value?.illustration,
+			thumbnailUrl: () => article.value?.illustration,
 			wordCount: () =>
 				article.value?.body.value.reduce(
 					(acc, paragraph) => acc + countWordsInNode(paragraph),
