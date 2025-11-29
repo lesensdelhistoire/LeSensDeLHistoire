@@ -73,4 +73,4 @@ Nous partions du constat qu’il était étonnant d’évoquer Barbara comme *ag
 24. Ibid. [↩](#user-content-fnref-24){.data-footnote-backref ariaLabel="Back to reference 24" dataFootnoteBackref=""}
 25. Pierre Bourdieu, « La jeunesse n’est qu’un mot », Questions de sociologie, Paris, Éditions de Minuit, 2018 [1984] , p. 145. [↩](#user-content-fnref-25){.data-footnote-backref ariaLabel="Back to reference 25" dataFootnoteBackref=""}
 26. Lié au concept d’agency (agentivité) évoquant la capacité d’agir. [↩](#user-content-fnref-26){.data-footnote-backref ariaLabel="Back to reference 26" dataFootnoteBackref=""}
-27. Barbara, Il était un piano noir…Mémoires interrompus, Paris, Fayard, 1998, p. 141. [↩](#user-content-fnref-27){.data-footnote-backref ariaLabel="Back to reference 27" dataFootnoteBackref=""}
+27. Barbara, Il était un piano noir…Mémoires interrompus, Paris, Fayard, 1998, p.141. [↩](#user-content-fnref-27){.data-footnote-backref ariaLabel="Back to reference 27" dataFootnoteBackref=""}
