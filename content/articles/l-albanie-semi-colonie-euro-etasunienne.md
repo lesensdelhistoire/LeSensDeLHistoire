@@ -11,6 +11,8 @@ description: "Ces drapeaux omniprésents, ces banques saturant l'espace urbain,
   l'Albanie, État formellement indépendant, n'est pas devenue en pratique une
   semi-colonie euro-étasunienne dans le système impérialiste contemporain."
 illustration: /articles/l-albanie-une-semi-colonie-eur-etasunienne/liberators-not-criminals.jpg
+date: 2025-12-03T00:00:00.000Z
+archived: true
 ---
 
 # L'Albanie, semi-colonie euro-étasunienne ?
