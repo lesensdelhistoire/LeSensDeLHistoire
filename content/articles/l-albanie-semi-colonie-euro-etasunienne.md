@@ -13,6 +13,7 @@ description: "Ces drapeaux omniprésents, ces banques saturant l'espace urbain,
 illustration: /articles/l-albanie-une-semi-colonie-eur-etasunienne/liberators-not-criminals.jpg
 date: 2025-12-03T00:00:00.000Z
 archived: true
+illustrationDetails: /articles/l-albanie-une-semi-colonie-eur-etasunienne/liberators-not-criminals.jpg
 ---
 
 # L'Albanie, semi-colonie euro-étasunienne ?
