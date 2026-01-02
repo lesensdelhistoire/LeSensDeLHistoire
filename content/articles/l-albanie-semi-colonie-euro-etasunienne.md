@@ -38,7 +38,7 @@ La notion de semi-colonie forgée au XXe siècle pour désigner ces États forme
 3. **L'insertion forcée dans une division internationale du travail** qui assigne au territoire le rôle de fournisseur de matières premières et de main-d'œuvre bon marché, interdisant toute accumulation autonome du capital et tout développement industriel indépendant.
 4. **L'existence d'élites locales** qui, loin de résister à cette pénétration impérialiste, s'en font les relais actifs, trouvant dans la médiation avec les intérêts étrangers la source de leur enrichissement et de leur pouvoir : la "bourgeoisie comprador".
 
-Peut-on, en 2025, appliquer cette grille d'analyse à un État membre de l'OTAN, candidat à l'Union européenne, doté de tous les attributs formels de la souveraineté ? C'est ce que nous allons examiner en nous fondant sur les données économiques, institutionnelles et politiques disponibles. 
+Peut-on, en 2025, appliquer cette grille d'analyse à un État doté de tous les attributs formels de la souveraineté ? C'est ce que nous allons examiner en nous fondant sur les données économiques, institutionnelles et politiques disponibles. 
 
 ## **L'infrastructure matérielle de la domination impérialiste : le capital étranger en maître**
 
