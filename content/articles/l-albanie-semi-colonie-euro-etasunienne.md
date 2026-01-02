@@ -44,7 +44,7 @@ Peut-on, en 2025, appliquer cette grille d'analyse à un État doté de tous les
 
 ### **Les banques ou la captation du système nerveux économique**
 
-Partons d'un chiffre : Plus de [70% du système bancaire albanais est contrôlé par des institutions étrangères](https://financa.gov.al/wp-content/uploads/2025/02/Prospectus-Eurobond-2025.pdf). Raiffeisen Bank International (Autriche) détient environ 20% des actifs bancaires, Intesa Sanpaolo (Italie) 15%, auxquels s'ajoutent Alpha Bank (Grèce), Credins Bank et plusieurs autres établissements européens. Sur les quatorze banques opérant en Albanie, une seule est à capitaux majoritairement locaux.
+Partons d'un chiffre : Plus de [70% du système bancaire albanais est contrôlé par des institutions étrangères](https://financa.gov.al/wp-content/uploads/2025/02/Prospectus-Eurobond-2025.pdf). Raiffeisen Bank International (Autriche) détient environ 15% des actifs bancaires, Intesa Sanpaolo (Italie) 15%, auxquels s'ajoutent Alpha Bank (Grèce), Credins Bank et plusieurs autres établissements européens. Sur les quatorze banques opérant en Albanie, une seule est à capitaux majoritairement locaux.
 
 Cette configuration n'est pas le fruit du hasard ou d'une simple "ouverture aux capitaux internationaux". Elle résulte de la transition post-communiste des années 1990, lorsque [les institutions de Bretton Woods](/articles) (FMI, Banque mondiale), bras armés de l'impérialisme financier occidental, ont imposé la privatisation du système bancaire comme condition de leur aide. Les banques d'État ont été liquidées ou vendues à des repreneurs étrangers, et les quelques tentatives de constitution de banques locales se sont heurtées à l'absence de capitaux domestiques suffisants et à l'hostilité des institutions internationales.
 
