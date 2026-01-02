@@ -13,7 +13,8 @@ description: "Ces drapeaux omniprésents, ces banques saturant l'espace urbain,
 illustration: /articles/l-albanie-une-semi-colonie-eur-etasunienne/liberators-not-criminals.jpg
 date: 2026-01-01T00:00:00.000Z
 archived: false
-illustrationDetails: Photographie de la banderole "Liberators, not criminals !"
+illustrationDetails: 'Photographie de la banderole "Liberators, not criminals !"
+  affichée sur la Place Skanderbeg à Tirana, octobre 2025. '
 category: ""
 ---
 
