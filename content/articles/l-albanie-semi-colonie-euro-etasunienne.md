@@ -17,7 +17,7 @@ illustrationDetails: Photographie de la banderole "Liberators, not criminals !"
 category: ""
 ---
 
-Tirana, octobre 2025. Le boulevard Dëshmorët e Kombit sous le soleil matinal. Ce qui frappe d'emblée : les drapeaux. Le drapeau américain ou celui de l'Union européenne ornent bâtiments publics, sièges d'entreprises, panneaux de chantiers au côté du drapeau albanais (qui est aussi absolument partout1). 
+Tirana, octobre 2025. Le boulevard Dëshmorët e Kombit sous le soleil matinal. Ce qui frappe d'emblée : les drapeaux. Le drapeau américain ou celui de l'Union européenne ornent bâtiments publics, sièges d'entreprises, panneaux de chantiers au côté du drapeau albanais (qui est aussi absolument partout). 
 
 Sur la place Skanderbeg, sur les grilles du Musée national d'histoire en chantier, une banderole : "LIBERATORS, NOT CRIMINALS!" entouré de plusieurs drapeaux : États-Unis, Union européenne, OTAN, Kosovo, Armée de liberation de Kosovo. Cette banderole proclame devant le principal musée national qui sont les protecteurs, les maîtres. L'indépendance nationale redéfinie comme dépendance célébrée. "Liberators, not criminals!". Sous la mosaïque socialiste Shqipëria (« Les Albanais ») racontant des siècles de résistance, on célèbre l'allégeance à de nouvelles puissances. L'ironie historique est vertigineuse.
 
