@@ -11,12 +11,11 @@ description: "Ces drapeaux omniprésents, ces banques saturant l'espace urbain,
   l'Albanie, État formellement indépendant, n'est pas devenue en pratique une
   semi-colonie euro-étasunienne dans le système impérialiste contemporain."
 illustration: /articles/l-albanie-une-semi-colonie-eur-etasunienne/liberators-not-criminals.jpg
-date: 2025-12-03T00:00:00.000Z
-archived: true
-illustrationDetails: Photographie de la banderole 'Liberators, not criminals !"
+date: 2026-01-02T00:00:00.000Z
+archived: false
+illustrationDetails: Photographie de la banderole "Liberators, not criminals !"
+category: ""
 ---
-
-# L'Albanie, semi-colonie euro-étasunienne ?
 
 Tirana, octobre 2025. Le boulevard Dëshmorët e Kombit sous le soleil matinal. Ce qui frappe d'emblée : les drapeaux. Le drapeau américain ou celui de l'Union européenne ornent bâtiments publics, sièges d'entreprises, panneaux de chantiers au côté du drapeau albanais (qui est aussi absolument partout1). 
 
@@ -47,7 +46,7 @@ Peut-on, en 2025, appliquer cette grille d'analyse à un État membre de l'OTAN,
 
 Partons d'un chiffre : 90% du système bancaire albanais est contrôlé par des institutions étrangères. Raiffeisen Bank International (Autriche) détient environ 20% des actifs bancaires, Intesa Sanpaolo (Italie) 15%, auxquels s'ajoutent Alpha Bank (Grèce), Credins Bank et plusieurs autres établissements européens. Sur les quatorze banques opérant en Albanie, une seule est à capitaux majoritairement locaux.
 
-Cette configuration n'est pas le fruit du hasard ou d'une simple "ouverture aux capitaux internationaux". Elle résulte de la transition post-communiste des années 1990, lorsque les institutions de Bretton Woods (FMI, Banque mondiale), bras armés de l'impérialisme financier occidental, ont imposé la privatisation du système bancaire comme condition de leur aide. Les banques d'État ont été liquidées ou vendues à des repreneurs étrangers, et les quelques tentatives de constitution de banques locales se sont heurtées à l'absence de capitaux domestiques suffisants et à l'hostilité des institutions internationales.
+Cette configuration n'est pas le fruit du hasard ou d'une simple "ouverture aux capitaux internationaux". Elle résulte de la transition post-communiste des années 1990, lorsque [les institutions de Bretton Woods](https://om.ciheam.org/ressources/om/pdf/b15/CI970340.pdf) (FMI, Banque mondiale), bras armés de l'impérialisme financier occidental, ont imposé la privatisation du système bancaire comme condition de leur aide. Les banques d'État ont été liquidées ou vendues à des repreneurs étrangers, et les quelques tentatives de constitution de banques locales se sont heurtées à l'absence de capitaux domestiques suffisants et à l'hostilité des institutions internationales.
 
 Les conséquences de cette structure illustrent parfaitement la logique de l'exportation des capitaux que Lénine identifiaient comme caractéristique centrale de l'impérialisme moderne. Le crédit (c'est-à-dire la capacité d'investir, d'innover, de développer des secteurs nouveaux) est alloué selon les critères de rentabilité des maisons-mères non selon les besoins du développement albanais. Les profits bancaires sont systématiquement rapatriés vers les sièges européens. L'Albanie ne contrôle plus ce que Fernand Braudel appelait "le nerf de la guerre économique" : la création monétaire et l'allocation du crédit.
 
@@ -55,7 +54,7 @@ L'Albanie ne contrôle plus la création de crédit sur son propre territoire. E
 
 ### **L'énergie et les ressources naturelles : l'impérialisme extractif**
 
-L'inventaire du contrôle étranger sur les ressources albanaises dessine une géographie précise de la pénétration impérialiste. Les concessions hydroélectriques – et l'hydroélectricité représente 70% de la production énergétique nationale – sont détenues à hauteur de 70 à 80% par des entreprises autrichiennes (Verbund), tchèques, italiennes et turques. Le secteur a connu une vague de privatisations dans les années 2000, orchestrée sous pression du FMI qui conditionnait ses prêts à la "libéralisation du secteur énergétique".
+L'inventaire du contrôle étranger sur les ressources albanaises dessine une géographie précise de la pénétration impérialiste. Les concessions hydroélectriques – et l'hydroélectricité représente 70% de la production énergétique nationale – sont détenues à hauteur de 70 à 80% par des entreprises autrichiennes (Verbund), tchèques, italiennes et turques. Le secteur a connu une [vague de privatisations dans les années 2000](https://www.awex-export.be/files/library/Infos-sectorielles/PECO/2017/ALBANIE/Guide-affaires-Albanie-2016.pdf), orchestrée sous pression du FMI qui conditionnait ses prêts à la "libéralisation du secteur énergétique".
 
 Le chrome, dont l'Albanie est le troisième producteur européen avec des réserves estimées à plusieurs millions de tonnes, est exploité via des concessions accordées à des firmes étrangères. Le pétrole et le gaz naturel, présents dans les bassins de Patos-Marinza et Durrës, sont sous concession de Shell (anglo-néerlandais) et Bankers Petroleum (canadien). Les télécommunications sont contrôlées par Vodafone (Royaume-Uni) et Deutsche Telekom (via des filiales grecques).
 
@@ -65,7 +64,7 @@ L'Albanie est devenue une "économie rentière périphérique" : elle tire une p
 
 ### **La division internationale du travail : la périphérie au service**
 
-L'analyse de la structure du commerce extérieur albanais révèle l'insertion du pays dans une division internationale du travail caractéristique des espaces périphériques dominés par l'impérialisme. Les exportations albanaises se composent pour 40 à 45% de matières premières et de produits de base : minerais, chrome, ferrochrome, cuivre, pétrole brut. S'y ajoutent, pour environ 35%, des produits semi-finis à faible valeur ajoutée, essentiellement des textiles et des chaussures fabriqués en sous-traitance pour des marques italiennes, grecques ou allemandes.
+L'analyse de la [structure du commerce extérieur albanais](https://fr.tradingeconomics.com/albania/balance-of-trade) révèle l'insertion du pays dans une division internationale du travail caractéristique des espaces périphériques dominés par l'impérialisme. Les exportations albanaises se composent pour 40 à 45% de matières premières et de produits de base : minerais, chrome, ferrochrome, cuivre, pétrole brut. S'y ajoutent, pour environ 35%, des produits semi-finis à faible valeur ajoutée, essentiellement des textiles et des chaussures fabriqués en sous-traitance pour des marques italiennes, grecques ou allemandes.
 
 Les produits manufacturés complexes, ceux qui incorporent de la recherche, du design, de l'innovation technologique – ceux qui permettent l'accumulation du capital à un niveau supérieur – représentent moins de 10% des exportations. En miroir, les importations sont constituées de biens d'équipement (25%), de produits manufacturés finis (45%) et, paradoxe révélateur, d'énergie (10 à 15%) alors même que le pays dispose d'un potentiel hydroélectrique considérable qu'il ne maîtrise pas.
 
@@ -129,15 +128,15 @@ Les privatisations des années 1990 et 2000 ont constitué le moment fondateur d
 
 Le schéma type est le suivant : un homme d'affaires ou un politicien albanais s'associe avec un capital étranger (italien, grec, autrichien, turc), obtient grâce à ses relations politiques une concession ou l'acquisition d'un actif public à bas prix, et prélève sa commission sur l'opération. Il ne produit rien, ne développe rien, n'investit rien dans l'économie réelle : il facilite la pénétration du capital impérialiste et prélève sa rente.
 
-Edi Rama, Premier ministre depuis 2013, ancien artiste reconverti en politique, incarne parfaitement cette élite comprador. Il entretient des liens organiques avec les milieux d'affaires italiens et grecs, facilite l'implantation des capitaux étrangers, applique scrupuleusement les recommandations du FMI. La famille Berisha, qui a dominé la politique albanaise dans les années 1990 et 2000, s'est considérablement enrichie dans les privatisations et maintient des liens étroits avec le capital européen.
+[Edi Rama](https://www.mediapart.fr/journal/international/280224/albanie-comment-l-autocrate-edi-rama-est-devenu-le-meilleur-allie-des-occidentaux), Premier ministre depuis 2013, ancien artiste reconverti en politique, incarne parfaitement cette élite comprador. Il entretient des liens organiques avec les milieux d'affaires italiens et grecs, facilite l'implantation des capitaux étrangers, applique scrupuleusement les recommandations du FMI. La famille Berisha, qui a dominé la politique albanaise dans les années 1990 et 2000, s'est considérablement enrichie dans les privatisations et maintient des liens étroits avec le capital européen.
 
-L'indice de perception de la corruption classe l'Albanie à 37/100 en 2023, parmi les États les plus corrompus d'Europe. Mais réduire cette situation à de la "corruption" individuelle serait manquer l'essentiel. La corruption n'est pas un dysfonctionnement du système impérialiste : elle en est un rouage essentiel. C'est par la corruption que s'opère la jonction entre le capital impérialiste et les élites locales, que se scellent les accords de partage de la rente, que se reproduit la domination.
+L'indice de perception de la corruption classe l'Albanie à [37/100 en 2023](https://fr.countryeconomy.com/gouvernement/indice-perception-corruption/albanie), parmi les États les plus corrompus d'Europe. Mais réduire cette situation à de la "corruption" individuelle serait manquer l'essentiel. La corruption n'est pas un dysfonctionnement du système impérialiste : elle en est un rouage essentiel. C'est par la corruption que s'opère la jonction entre le capital impérialiste et les élites locales, que se scellent les accords de partage de la rente, que se reproduit la domination.
 
 Ces élites ne "trahissent" pas un “intérêt national” par vénalité personnelle ; elles n'ont tout simplement aucun intérêt à un développement autonome de l'Albanie. Leur enrichissement dépend précisément de leur capacité à servir d'intermédiaires entre les capitaux impérialistes et le territoire albanais. Elles forment une classe parasite, qui vit de la rente de médiation, non de la production nationale.
 
 ### **L'alignement géopolitique : la servilité comme ligne politique**
 
-L'Albanie n'a pas de politique étrangère autonome. Elle vote systématiquement avec l'OTAN et l'Union européenne dans toutes les instances internationales. Sur la Palestine (refus de condamner les massacres), sur l'Ukraine (alignement total sur les positions otaniennes), sur les relations avec la Chine ou la Russie, la position albanaise est rigoureusement calquée sur celle de Washington et Bruxelles.
+L'Albanie n'a pas de politique étrangère autonome. Elle vote systématiquement avec l'[OTAN](https://www.nato-pa.int/fr/news/loccasion-des-15-ans-de-ladhesion-de-lalbanie-lotan-les-parlementaires-saluent-la-contribution) et l'Union européenne dans toutes les instances internationales. Sur la Palestine (refus de condamner les massacres), sur l'Ukraine (alignement total sur les positions otaniennes), sur les relations avec la Chine ou la Russie, la position albanaise est rigoureusement calquée sur celle de Washington et Bruxelles.
 
 Edi Rama parle régulièrement de l'adhésion européenne comme d'un "retour à la maison", d'un "retour à la famille européenne" dont l'Albanie aurait été artificiellement séparée par le communisme. Cette rhétorique révèle une aliénation profonde : l'idée que l'Albanie n'existerait vraiment qu'en devenant européenne, c'est-à-dire en se fondant dans l'espace impérialiste européen.
 
@@ -223,3 +222,5 @@ Dire que l'Albanie est une semi-colonie, ce n'est pas condamner le peuple albana
 L'Albanie en est un cas d'école. Un laboratoire où observer, à l'état pur, les mécanismes de l'impérialisme contemporain. Un territoire où la domination s'exerce sans fard, où les contradictions sont exacerbées, où l'exploitation est massive. Étudier l'Albanie, c'est comprendre comment fonctionne le système impérialiste dans son ensemble. C'est saisir la logique qui fait des Balkans, de l'Europe orientale, mais aussi de l'Afrique, de l'Amérique latine, de larges parties de l'Asie, des périphéries exploitées au service de l'accumulation capitaliste dans les métropoles.
 
 Si l'historien doit servir à quelque chose, c'est peut-être à cela : dessiller les regards, nommer les rapports de domination là où la doxa ne veut voir que des relations entre égaux, déchirer le voile des euphémismes pour montrer la brutalité des mécanismes d'exploitation. L'Albanie est une semi-colonie euro-étasunienne dans le système impérialiste contemporain. Le dire, c'est déjà refuser le consentement tacite à cette domination. C'est ouvrir la possibilité d'une autre histoire.
+
+Pour compléter cette lecture : "[Criminalité organisée : Albanie, le cheval de Troie des narcos en Europe](https://www.blast-info.fr/articles/2025/criminalite-organisee-albanie-le-cheval-de-troie-des-narcos-en-europe-u6U3bO9AQJ-4cu-npUNicA)", *Blast,* novembre 2025 ou la version vidéo ["Mafia : Albanie, le narco-État préféré de l’Union européenne](https://www.blast-info.fr/emissions/2025/mafia-albanie-le-narco-etat-prefere-de-lunion-europeenne-sRPD7r0PQUuNAh0RcqPj7g)"
